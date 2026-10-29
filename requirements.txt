@@ -1,0 +1,12 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+scipy>=1.13
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.22
+joblib>=1.4
+ipykernel>=6.29
+nbformat>=5.9
+nbclient>=0.10
